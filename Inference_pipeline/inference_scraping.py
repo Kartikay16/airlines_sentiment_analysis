@@ -1,13 +1,12 @@
 import tweepy
 
+access_token = '************************************'
+Access_token_secret ='***********************************'
+Consumer_api_key= '***************************'
+Consumer_api_secret = '******************************************'
 
-access_token = '3157387278-CotVDYmo4pHqb7l83NtDG74kyFfQIvmaEUPDJvo'
-Access_token_secret ='8whDTO8nyIg9AXQvg0hKjxR1FBEVZVoqrVKIzb25ChTDg'
-Consumer_api_key= 'u1bI10udOsX2TxDeBrgPvdcqN'
-Consumer_api_secret = 'tDInOLN4ODGWA1LXJGM11YjYpPmzozrrEn7yipb4ycKZvOIATW'
 
-
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAFWNywEAAAAAfYh4uRaxnn%2BowhzxWV2DiWsjC9U%3DdkBFpfUWcMqJwnYXpWBOcCnjQP14wbpk1MHMROtpYydNXbR9gz'
+bearer_token = '****************************%************%**************************'
 
 class Scrapping:
 
