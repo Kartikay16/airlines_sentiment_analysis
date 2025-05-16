@@ -9,3 +9,6 @@ class InferMain:
     
     def get_inference(self):
         return self.final_inference
+    
+
+    
